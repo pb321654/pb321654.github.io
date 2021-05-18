@@ -5,5 +5,13 @@ function s1()
 function sjb()
 {
 	window.alert("已为您切换到手机版");
-	window.location.href="j";
+	window.location.href="&";
+}
+function lx()
+{
+	window.location.href="lx.html";
+}
+function zz()
+{
+	window.location.href="zz.html";
 }
